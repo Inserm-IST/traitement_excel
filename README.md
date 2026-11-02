@@ -12,6 +12,10 @@ python -m venv .venv
 ```
 .\.venv\Scripts\Activate.ps1
 ```
+## Installer les dépendances
+```
+pip install pandas xlrd openpyxl
+```
 ## Lancer le programme 
 ```
 python excel_link.py
