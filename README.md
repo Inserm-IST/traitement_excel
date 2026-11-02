@@ -18,3 +18,6 @@ python excel_link.py
 ```
 ## Fichier de sortie 
 Le fichier de sortie est "S:\Publics\DISC_KB\SOS\SOS_HAL_FullText\HAL_API_APC_maj.xlsx"
+
+## Fichier de sortie 
+N.B : il faut penser à relancer le script régulièrement pour que les modifications des deux fichiers soient intégrées. 
