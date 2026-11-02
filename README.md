@@ -1,4 +1,4 @@
-# traitement_excel
+## script python traitement_excel
 
 Ce script permet de lier les fichiers Excel HAL_API_PC et 2026_Validation_APC. Télécharger le script excel_link.py depuis ce repository et le mettre dans un dossier 'excel' Bureau. 
 
